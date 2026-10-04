@@ -1,8 +1,8 @@
 class GitSemverRelease < Formula
   desc "Semantic versioning tool for Git using conventional commits"
   homepage "https://github.com/michalstutzmann/git-semver-release"
-  url "https://github.com/michalstutzmann/git-semver-release/releases/download/v2.0.1/git-semver-release"
-  sha256 "9d15c0e767a1948e6f5bf9697030c7e47b2773d4a4f66264a63f2b0922a5f027"
+  url "https://github.com/michalstutzmann/git-semver-release/releases/download/v2.1.0/git-semver-release"
+  sha256 "bba6d6c31c6e3bf7b984b8692120b672d3931f0e17696d4861b6b7fa171912af"
   license "Apache-2.0"
 
   depends_on "bash"
